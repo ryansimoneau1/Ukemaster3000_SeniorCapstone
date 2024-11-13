@@ -1,0 +1,21 @@
+Circuit: * C:\Users\Ryan's PC\OneDrive - University of Florida\UF Classes\Z Super Senior 2022-2023\Spring 2023\EEL4924C(Senior)\spice SImulations\Improved Converter.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Wed Feb 08 17:27:54 2023
+Total elapsed time: 2.808 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 922080
+traniter = 922066
+tranpoints = 252362
+accept = 186621
+rejected = 65741
+matrix size = 20
+fillins = 8
+solver = Normal
+Matrix Compiler1: 1.15 KB object code size  0.3/0.2/[0.1]
+Matrix Compiler2: 1.42 KB object code size  0.2/0.2/[0.1]
+
